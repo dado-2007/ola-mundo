@@ -1,2 +1,2 @@
 # Olá mundo!
- primeiro reepositório.
+ primeiro repositório.

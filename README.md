@@ -1,2 +1,2 @@
 # finamaloka
- clothing store.
+ the website where you buy your clothes.
